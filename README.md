@@ -183,4 +183,6 @@ src/
 
 ## 最后
 
-配套图书：《Claude Code 源码精讲》也将同步开源，敬请期待。
+配套图书：《Claude Code 源码精讲》已同步开源，地址：
+
+https://github.com/ohmuyi/claude-code-source-guide
